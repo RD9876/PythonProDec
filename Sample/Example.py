@@ -5,3 +5,13 @@ print(a+b)
 d=40
 e=20
 print(d-e)
+print("python")
+print("programming")
+
+
+
+
+
+
+
+
